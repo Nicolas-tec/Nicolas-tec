@@ -1,5 +1,6 @@
 ## Hi there 👋
 hola a todos
+![images](https://github.com/user-attachments/assets/09558767-a223-4a08-8e5d-b2d352e5ee80)
 
 <!--
 **Nicolas-tec/Nicolas-tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
