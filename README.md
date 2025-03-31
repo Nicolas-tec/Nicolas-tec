@@ -1,9 +1,10 @@
 ## Ingeniero freelance full-stack de desarrollo web
-![image](https://github.com/user-attachments/assets/ad36f6c2-57f4-44bb-95cc-bdac989ccebd)
+  ![image](https://github.com/user-attachments/assets/ad36f6c2-57f4-44bb-95cc-bdac989ccebd)
 
 👋 ¡Hola! Soy Nicolas Turcy Santos, un Ingeniero de Software junior Gran apasionado por el desarrollo web. Trabajo como FreeLancer y también como desarrollador web, creando soluciones eficientes y productivas con una buena estructura.
 🚀 Me especializo en los lenguajes de programación:
-•	FRONT-END: ![image](https://github.com/user-attachments/assets/71a6a74c-385b-4ca1-afbe-d7b767994618), CSS
+•	FRONT-END: ![image](https://github.com/user-attachments/assets/930e4d6c-b325-4f62-9468-4bcdf66f1e6a)
+, CSS
 •	BACK-END: PHP
 •	Bases de datos: MySQL
 •	Herramientas: Laravel, GitHub Desktop, Bootstrap 
