@@ -3,7 +3,9 @@
 
 👋 ¡Hola! Soy Nicolas Turcy Santos, un Ingeniero de Software junior Gran apasionado por el desarrollo web. Trabajo como FreeLancer y también como desarrollador web, creando soluciones eficientes y productivas con una buena estructura.
 🚀 Me especializo en los lenguajes de programación:
-•	FRONT-END: ![image](https://github.com/user-attachments/assets/35b239e6-9224-4529-97c2-dcaadb4b3f1a), CSS
+
+•	FRONT-END: ![image](https://github.com/user-attachments/assets/35b239e6-9224-4529-97c2-dcaadb4b3f1a), ![image](https://github.com/user-attachments/assets/43d51f43-494c-4c74-8e25-8df232936d4f)
+
 •	BACK-END: PHP
 •	Bases de datos: MySQL
 •	Herramientas: Laravel, GitHub Desktop, Bootstrap 
