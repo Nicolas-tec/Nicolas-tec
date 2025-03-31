@@ -1,6 +1,13 @@
-## Hi there 👋
-hola a todos
-![images](https://github.com/user-attachments/assets/09558767-a223-4a08-8e5d-b2d352e5ee80)
+## Ingeniero freelance full-stack de desarrollo web
+![image](https://github.com/user-attachments/assets/ad36f6c2-57f4-44bb-95cc-bdac989ccebd)
+👋 ¡Hola! Soy Nicolas Turcy Santos, un Ingeniero de Software junior Gran apasionado por el desarrollo web. Trabajo como FreeLancer y también como desarrollador web, creando soluciones eficientes y productivas con una buena estructura.
+🚀 Me especializo en los lenguajes de programación:
+•	FRONT-END: ![image](https://github.com/user-attachments/assets/71a6a74c-385b-4ca1-afbe-d7b767994618), CSS
+•	BACK-END: PHP
+•	Bases de datos: MySQL
+•	Herramientas: Laravel, GitHub Desktop, Bootstrap 
+💡 Me encanta aprender sobre nuevas tecnologías y mejorar constantemente en las tecnologías que ya tengo dominadas, me gusta participar en nuevos proyectos que pongan a prueba mis habilidades.
+📫 Si quieres colaborar en algún proyecto o debatir sobre tecnología, ¡hablemos!
 
 <!--
 **Nicolas-tec/Nicolas-tec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
