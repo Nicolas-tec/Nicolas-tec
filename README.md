@@ -14,11 +14,6 @@ I am a software engineer specializing in backend application development using P
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-green)
 
-## feactured Projects
-
-- [proyect Name 1]()
-- [proyect Name 2]()
-- [proyect Name 3]()
 
 ---
 
